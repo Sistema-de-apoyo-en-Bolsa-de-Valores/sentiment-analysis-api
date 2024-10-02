@@ -1,0 +1,17 @@
+project/
+├── src/
+│   ├── application/
+│   │ └── sentiment_analyzer.py
+│   │   
+│   ├── domain/
+│   │   └── models.py
+│   │   
+│   ├── infrastructure/
+│   │   └── openai_client.py
+│   │   
+│   └── interfaces/
+│       └── api.py
+│       
+├── .env
+├── main.py
+└── requirements.txt
